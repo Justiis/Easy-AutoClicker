@@ -3,7 +3,7 @@
  
 using namespace std;
  
-//How to make an autoclicker in c++ // 2019!
+//How to make an autoclicker in c++ // 2018!
  
 int x=0, y=0, cps;
 bool click=false;
